@@ -400,7 +400,7 @@ pragma solidity ^0.4.24;
           return true;
       }
 
-      // CLPT -> tron token
+      // CLPT -> Heco token
       // txHash -> tx hash on ColaPointChain
       function withdrawTo(
           address _to,
