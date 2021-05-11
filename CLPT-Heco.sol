@@ -426,5 +426,5 @@ pragma solidity ^0.4.24;
       }
   }
   contract ColaPointToken is HecoColaPointToken {
-      constructor() public HecoColaPointToken("ColaPoint", "CLPT", 18, 2000000000) {}
+      constructor() public HecoColaPointToken("DJB", "DJB", 18, 1000000000000000) {}
   }
